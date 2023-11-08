@@ -5,7 +5,7 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550 Quarto Template"
+  title: "MUSA 550 Quarto Exercise"
   site-url: "https://musa-550-fall-2023.github.io/MUSA550-website-template" 
   repo-url: https://github.com/MUSA-550-Fall-2023/MUSA550-website-template 
   repo-actions: [source]
