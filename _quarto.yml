@@ -12,7 +12,7 @@ website:
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-Nick Hand, 2023"
+    left: "&copy; CC-Hang Zhao, 2023"
 
   sidebar:
     logo: "images/course-icon.png"
@@ -20,14 +20,14 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nickhand.dev
-        text: "Personal Website"
+        href: https://musa-550-fall-2023.github.io/
+        text: "MUSA550 Course Website"
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
+        href: https://github.com/Cyanhang/MUSA550-website-template
         text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/nicholashand
-        text: "Nick Hand Twitter"         
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hang-zhao-62060a1a9/
+        text: "Hang Zhao Linkedin"         
 
     style: "docked"
     search: true
