@@ -33,7 +33,7 @@ website:
     search: true
     collapse-level: 2
     contents:
-      - href: example.qmd
+      - href: 2-Final-Project-Explore.qmd
         text: Example Notebook
       - about.qmd
       - section: analysis/index.qmd
